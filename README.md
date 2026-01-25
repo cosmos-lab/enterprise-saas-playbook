@@ -64,6 +64,7 @@ Each section can be read independently, but together they form a complete system
 ### 📈 Scale & Sustainability
 
 * [13 – Scaling, Cost Optimization, and Future Proofing](13-Scaling_Cost_Optimization_and_Future_Proofing.md)
+* [14 – SaaS Compliance and Regulatory Readiness](14_SaaS_Compliance_and_Regulatory_Readiness.md)
 
 ---
 
